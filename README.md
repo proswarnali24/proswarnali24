@@ -9,8 +9,8 @@
   <tr>
     <td width="38%" valign="top" align="center">
       <img
-        src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=700&q=80"
-        alt="Profile visual"
+        src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=700&q=80"
+        alt="Professional portrait"
         width="260"
         style="border-radius:50%;"
       />
