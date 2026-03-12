@@ -9,8 +9,8 @@
   <tr>
     <td width="38%" valign="top" align="center">
       <img
-        src="https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=700&q=80"
-        alt="Hacker style coding visual"
+        src="./assets/me.jpeg"
+        alt="Sornali Sen"
         width="260"
         style="border-radius:50%;"
       />
