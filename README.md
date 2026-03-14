@@ -41,11 +41,17 @@
 
 ### 🤝 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/sornali-sen/" target="_blank">
+  <a href="https://www.linkedin.com/in/sornali-sen-a90b61313/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/proswarnali24" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Swarno_001/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="48" height="48" />
+  </a>
+  <a href="https://www.instagram.com/swarnali.sen.24?igsh=NmR2ZHhqZmw2YWsx" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="48" height="48" />
   </a>
 </p>
 
